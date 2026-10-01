@@ -1,2 +1,2 @@
 # ProjetoBiblioteca
-Projeto de gerenciamento de biblioteca escolar
+Projeto de gerenciamento de biblioteca escolar.
